@@ -1,0 +1,21 @@
+{
+  "name": "smart-parking-lot",
+  "version": "1.0.0",
+  "description": "This project simulates a backend system for managing a multi-floor smart parking lot, designed as part of a low-level design assessment.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/uuid": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "uuid": "^11.1.0"
+  }
+}
